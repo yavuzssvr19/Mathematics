@@ -1,1 +1,2 @@
-# Mathematics
+# Nerde O Eskilerdeki Matematik
+Bu blog yazısı Temel Matematik patikası için yazılmıştır. Bu zamana kadar bizlere öğretilen matematik tamamen ezebere dayalı olan bir matematik ve ne yazık ki öğrenciler üniversite düzeyine geçemeden bu olayı idrak edemiyorlar ve hayatlarının büyük bir bölümünde matematiğe bu bakış açısı ile bakıyorlar. Çok rahat bir şekilde genelleme yapabiliyor ve net bir şekilde konuşabiliyorum çünkü aynı yollardan ben de geçtim. Ne zaman üniversitede ders dinledim ve araştırdım matematiğin sihrine orada kapıldım. Sadece işlem yaparak değilde o işlemler ispatlar nerden çıkıyor diye azıcık kurcaladığımızda bile biz o sihire kapılabiliriz. Matetmatikle kalmanız dileğiyle:)
